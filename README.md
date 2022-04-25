@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **product and project managment**
 - 💞️ I’m looking to collaborate on *projects at a startup level*
 - 📫 How to reach me - kelvinkyendwa@gmail.com
--
+
 
 <!---
 kelvinkyendwa/kelvinkyendwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
