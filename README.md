@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kelvin
 - 👀 I’m interested in ***technology ,innovation and building ideas that will impact society***
-- 🌱 I’m currently learning **product and project managment**
-- 💞️ I’m looking to collaborate on *any frontend projects*
+- 🌱 I’m currently learning **Microfrontends and React Native**
+- 💞️ I’m looking to collaborate on *any ReactJs projects*
 - 📫 How to reach me - kelvinkyendwa@gmail.com
 
 
